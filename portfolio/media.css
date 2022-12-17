@@ -1,0 +1,232 @@
+@media only screen and (max-width: 767px) {
+   .nav-link{
+    display: none;
+   }
+   .h4{
+      width: 250px;
+   }
+   .bir{
+    height: 51.3vh;
+   }
+   .header-subtitle{
+      position: relative;
+      top: -240px; 
+      right: 155px;
+      padding: 10px;
+   }
+   .header-title{
+      position: relative;
+      top: -240px ;
+      right: 160px;
+      padding: 10px;
+   }
+   .header-mono{
+      position: relative;
+      top: -250px ;
+      right: 160px;
+      padding: 10px;
+   }
+   .icon{
+      position: relative;
+      top: 90px;
+      width: 250px;
+      font-size: 24px;
+      left: 110px;
+   }
+   #text{
+      font-family: Georgia, 'Times New Roman', Times, serif;
+   }
+   .Button{
+      position: relative;
+      top: -260px;
+      right: 160px;
+   }
+   nav{
+      display: none;
+   }
+   .card{
+      width: 100%;
+   }
+   .ikki .text .h4{
+      position: relative;
+      right: 630px;
+      line-height: 1.2;
+      
+   }
+   .Expertise{
+      position: absolute;
+      top: 1050px;
+      left: 220px;
+      width: 360px;
+      font-size: 33px;
+      border-bottom: 1px solid #dee2e6;
+      display: inline-block;
+   }
+   .Lorem #hr2{
+      display: none;
+   }
+   .ikki{
+      position: relative;
+      top: -280px;
+   }
+   .card-text{
+      position: relative;
+      top: 36px;
+      font-size: 40px;
+   }
+   .card-text #h4{
+      font-size: 20px;
+      position: relative;  
+      left: 18px;
+   }
+   .card-text #h2{
+      position: relative;  
+      left: 18px;
+   }
+   .card #h1{
+      font-size:47px ;
+      width: 280px;
+      left: 20px;
+
+   }
+   .card #hr{
+      left: 22.5px;
+
+   }
+   .ikki .text .h4{
+      position: relative;
+      left: -444px;
+      top: -115px;
+   }
+   #portfolio{
+      position: relative;
+      top: -20px;
+      left: 358px;
+      font-size: 60px;
+      width: 320px;
+   }
+   .portfolio{
+      position: relative;
+      left: -117px;
+      width: 600px;
+      top: 90px;
+      
+   }
+   .portfolio img:nth-child(1){
+      width: 600px;
+      height: 615px;
+      position: relative;
+      top: -50px;
+      left: 320px;
+    }
+    .portfolio img:nth-child(2){
+      width: 600px;
+      height: 615px;
+      position: relative;
+      top: -50px;
+      left: 320px;
+    }
+    .portfolio img:nth-child(3){
+      width: 600px;
+      height: 615px;
+      position: relative;
+      top: -50px;
+      left: 320px;
+    }
+    .portfolio img:nth-child(4){
+      width: 600px;
+      height: 615px;
+      position: relative;
+      top: -50px;
+      left: 320px;
+    }
+    .portfolio img:nth-child(5){
+      width: 600px;
+      height: 615px;
+      position: relative;
+      top: -50px;
+      left: 320px;
+    }
+    .portfolio img:nth-child(6){
+      width: 600px;
+      height: 615px;
+      position: relative;
+      top: -50px;
+      left: 320px;
+      display: none;
+    }
+    .portfolio img:nth-child(7){
+      width: 600px;
+      height: 615px;
+      position: relative;
+      top: -50px;
+      left: 320px;
+      display: none;
+    }
+    .portfolio img:nth-child(8){
+      width: 600px;
+      height: 615px;
+      position: relative;
+      top: -50px;
+      left: 320px;
+      display: none;
+    }
+    .ikki .card:nth-child(2){
+    position: relative;
+    top: -127px;
+    left: 100px;
+    border-left: none;
+    width: 300px;
+    height: 410px;
+    }
+    .ikki .card:nth-child(3){
+      position: relative;
+      top: -151px;
+      left: 220px;
+      border-left: none;
+      width: 300px;
+      display: none;
+      }
+      .cards{
+         position: relative;
+         top: 2500px;
+         left:-180px;
+         width: 300px;
+      }
+      .cards {
+         width: 400px;
+         position: relative;
+         top: 100px;
+         left: 200px;
+         display: none;
+      }
+      .cards .card2 img{
+         width: 100%;
+         position: relative;
+      }
+      .h4{
+            position: relative;
+            left: 360px;
+            top: -360px; 
+      }
+      footer{
+         position: relative;
+         top: 2500px;
+      }
+      #news{
+         display: none;
+      }
+      .input-card{
+         width: 600px;
+         position: relative;
+         left: 90px;
+         top: -560px;
+      }
+      .input-card2{
+         display: none;
+      }
+      #box{
+         width: 300px;
+      }
+
+  }
